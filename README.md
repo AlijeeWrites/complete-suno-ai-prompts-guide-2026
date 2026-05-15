@@ -27,6 +27,12 @@ Use this winning structure:
 - Use negatives sparingly (`-glossy`, `-autotune`, `-hiss`)
 - **Powerful modifiers:** `[Hyper-Realistic]`, `[No Vocals]`, `[Instrumental]`, `[Sustained]`
 
+# 15,000+ Suno AI Prompts PDF Download
+
+Create professional AI tracks instantly with this massive prompt collection.
+
+**Download here:** [15,000+ Suno AI Prompts PDF](https://sevensky.gumroad.com/)
+
 ## 50+ Best Suno AI Prompts List with Styles & Tags
 
 ### Lo-Fi / Chill / Ambient
